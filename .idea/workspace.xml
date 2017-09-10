@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="797e1e25-d667-4092-8abb-6cb0c87c761d" name="Default" comment="add 0801, 0802">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/c08RecursionDynProg/CC0801.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/c08RecursionDynProg/CC0802.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/c08RecursionDynProg/CC0803.java" />
+    <list default="true" id="797e1e25-d667-4092-8abb-6cb0c87c761d" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/c01ArrayString/CC0102.java" afterPath="$PROJECT_DIR$/src/c01ArrayString/CC0102.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/c01ArrayString/CC0106.java" afterPath="$PROJECT_DIR$/src/c01ArrayString/CC0106.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/c08RecursionDynProg/CC0803.java" afterPath="$PROJECT_DIR$/src/c08RecursionDynProg/CC0803.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -118,9 +114,14 @@
       <file leaf-file-name="CC0803.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/c08RecursionDynProg/CC0803.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="610">
+              <caret line="40" column="8" lean-forward="true" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="8" />
+              <folding>
+                <element signature="e#114#115#0" expanded="true" />
+                <element signature="e#171#172#0" expanded="true" />
+                <element signature="e#616#617#0" expanded="true" />
+                <element signature="e#676#677#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -159,7 +160,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/c05BitManipulation/BitTest.java" />
         <option value="$PROJECT_DIR$/src/c06MathPuzzle/FindPrime.java" />
         <option value="$PROJECT_DIR$/src/c07OOD/RestaurantSingleton.java" />
         <option value="$PROJECT_DIR$/src/c08RecursionDynProg/Fibonacci.java" />
@@ -210,6 +210,7 @@
         <option value="$PROJECT_DIR$/src/c02LinkedList/CC0202.java" />
         <option value="$PROJECT_DIR$/src/c08RecursionDynProg/CC0801.java" />
         <option value="$PROJECT_DIR$/src/c08RecursionDynProg/CC0802.java" />
+        <option value="$PROJECT_DIR$/src/c08RecursionDynProg/CC0803.java" />
       </list>
     </option>
   </component>
@@ -950,12 +951,27 @@
       <workItem from="1504539166681" duration="4099000" />
       <workItem from="1504762130891" duration="474000" />
       <workItem from="1505011671927" duration="525000" />
-      <workItem from="1505058999344" duration="6462000" />
+      <workItem from="1505058999344" duration="9400000" />
     </task>
+    <task id="LOCAL-00001" summary="add 0801, 0802">
+      <created>1505069124327</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1505069124327</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add 0803 partially">
+      <created>1505070170310</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1505070170310</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="192587000" />
+    <option name="totallyTimeSpent" value="195525000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="953" y="0" width="974" height="1047" extended-state="0" />
@@ -963,7 +979,7 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3290461" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290461" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1000,7 +1016,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add 0801, 0802" />
-    <option name="LAST_COMMIT_MESSAGE" value="add 0801, 0802" />
+    <MESSAGE value="add 0803 partially" />
+    <option name="LAST_COMMIT_MESSAGE" value="add 0803 partially" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1390,9 +1407,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/c08RecursionDynProg/CC0803.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="610">
+          <caret line="40" column="8" lean-forward="true" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="8" />
+          <folding>
+            <element signature="e#114#115#0" expanded="true" />
+            <element signature="e#171#172#0" expanded="true" />
+            <element signature="e#616#617#0" expanded="true" />
+            <element signature="e#676#677#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
