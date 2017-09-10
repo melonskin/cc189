@@ -29,7 +29,7 @@ public class CC0102 {
             charMap.put(aChar, count);
         }
 
-        for( Integer value: charMap.values()) {
+        for(Integer value: charMap.values()) {
             if (value != 0) return false;
         }
         return true;
