@@ -9,12 +9,10 @@ import java.util.Set;
  */
 public class CC0807 {
     public Set<String> getPerms(String s) {
-        if (s.length() == 0) {
-            Set<String> resultSet = new HashSet<>();
-            resultSet.add(s);
-            return resultSet;
-        }
         Set<String> resultSet = new HashSet<>();
+        if (s.length() == 0) {
+            resultSet.add(s);
+        }
         for (int i = 0; i < s.length(); i++) {
             String aChar = s.charAt(i) + "";
             String remain = s.substring(0, i) + s.substring(i+1);
