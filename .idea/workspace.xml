@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="797e1e25-d667-4092-8abb-6cb0c87c761d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/c08RecursionDynProg/CC0804.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/c08RecursionDynProg/CC0805.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/c08RecursionDynProg/CC0806.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/c08RecursionDynProg/CC0807.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -32,29 +32,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="CC0406.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/c04TreeGraph/CC0406.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="22" column="39" lean-forward="false" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CC0407.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/c04TreeGraph/CC0407.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="50" column="38" lean-forward="false" selection-start-line="50" selection-start-column="38" selection-end-line="50" selection-end-column="38" />
-              <folding>
-                <element signature="e#894#895#0" expanded="false" />
-                <element signature="e#940#941#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="CC0408.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/c04TreeGraph/CC0408.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -133,12 +110,40 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CC0805.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CC0805.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/c08RecursionDynProg/CC0805.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="127">
-              <caret line="11" column="37" lean-forward="true" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+            <state relative-caret-position="241">
+              <caret line="17" column="34" lean-forward="true" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CC0806.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/c08RecursionDynProg/CC0806.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="779">
+              <caret line="41" column="38" lean-forward="true" selection-start-line="41" selection-start-column="38" selection-end-line="41" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#424#425#0" expanded="true" />
+                <element signature="e#461#462#0" expanded="true" />
+                <element signature="e#495#496#0" expanded="true" />
+                <element signature="e#537#538#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CC0807.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/c08RecursionDynProg/CC0807.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="14" column="29" lean-forward="false" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -177,8 +182,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/c08RecursionDynProg/Fibonacci.java" />
-        <option value="$PROJECT_DIR$/src/c10SortSearch/MergeSort.java" />
         <option value="$PROJECT_DIR$/src/c10SortSearch/QuickSort.java" />
         <option value="$PROJECT_DIR$/src/c10SortSearch/QuickSortPrinceton.java" />
         <option value="$PROJECT_DIR$/src/c10SortSearch/RepeatSort.java" />
@@ -228,6 +231,8 @@
         <option value="$PROJECT_DIR$/src/c08RecursionDynProg/CC0803.java" />
         <option value="$PROJECT_DIR$/src/c08RecursionDynProg/CC0804.java" />
         <option value="$PROJECT_DIR$/src/c08RecursionDynProg/CC0805.java" />
+        <option value="$PROJECT_DIR$/src/c08RecursionDynProg/CC0806.java" />
+        <option value="$PROJECT_DIR$/src/c08RecursionDynProg/CC0807.java" />
       </list>
     </option>
   </component>
@@ -986,7 +991,7 @@
       <workItem from="1504762130891" duration="474000" />
       <workItem from="1505011671927" duration="525000" />
       <workItem from="1505058999344" duration="9400000" />
-      <workItem from="1505093097717" duration="3074000" />
+      <workItem from="1505093097717" duration="5837000" />
     </task>
     <task id="LOCAL-00001" summary="add 0801, 0802">
       <created>1505069124327</created>
@@ -1002,11 +1007,18 @@
       <option name="project" value="LOCAL" />
       <updated>1505070170310</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add 0804 0805">
+      <created>1505097318019</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1505097318019</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="198599000" />
+    <option name="totallyTimeSpent" value="201362000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1061,7 +1073,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add 0801, 0802" />
     <MESSAGE value="add 0803 partially" />
-    <option name="LAST_COMMIT_MESSAGE" value="add 0803 partially" />
+    <MESSAGE value="add 0804 0805" />
+    <option name="LAST_COMMIT_MESSAGE" value="add 0804 0805" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1074,8 +1087,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/util/LinkedList.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/lang/Math.java" />
     <entry file="file://$PROJECT_DIR$/src/c05BitManipulation/CC0502.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
@@ -1416,9 +1427,33 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/c08RecursionDynProg/CC0805.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
-          <caret line="11" column="37" lean-forward="true" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+        <state relative-caret-position="241">
+          <caret line="17" column="34" lean-forward="true" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/c08RecursionDynProg/CC0806.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="779">
+          <caret line="41" column="38" lean-forward="true" selection-start-line="41" selection-start-column="38" selection-end-line="41" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#424#425#0" expanded="true" />
+            <element signature="e#461#462#0" expanded="true" />
+            <element signature="e#495#496#0" expanded="true" />
+            <element signature="e#537#538#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/c08RecursionDynProg/CC0807.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="29" lean-forward="false" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
