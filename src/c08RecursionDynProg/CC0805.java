@@ -32,7 +32,8 @@ public class CC0805 {
         }
         int smallerHalf = smaller >> 1;
         int halfResult = multiplyHelper(smallerHalf, bigger, memo);
-        return halfResult + halfResult + addition;
+        memo[smaller] = halfResult + halfResult + addition;
+        return memo[smaller];
     }
 
     public static void main(String[] args) {
